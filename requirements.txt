@@ -1,8 +1,9 @@
 optuna
 numpy
 scikit-learn
-tensorflow
+tensorflow == 2.10
 cuda-python
 scipy
+librosa
 matplotlib
 seaborn
