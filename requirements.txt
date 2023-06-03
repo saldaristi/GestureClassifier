@@ -1,0 +1,8 @@
+optuna
+numpy
+scikit-learn
+tensorflow
+cuda-python
+scipy
+matplotlib
+seaborn
